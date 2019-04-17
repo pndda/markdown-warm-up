@@ -1,4 +1,4 @@
-<h1 style="color: red;"> Markdown of all the bad things </h1>
+<h1> Markdown of all the bad things </h1>
 
 
 
@@ -10,7 +10,6 @@
   <li>no updates</li>
   <li>via ugly websites on google </li>
   <li>this is an outdated website </li>
-  <li>Unorganized<li>
-  <li>Not user friendly<li>
-  
+  <li>Unorganized </li>
+  <li>Not user friendly </li>
 </ul>
