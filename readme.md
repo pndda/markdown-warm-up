@@ -13,6 +13,14 @@
 </ul>
 
 
+<ol>
+  <li>less pictures, more space</li>
+  <li>stucture</li>
+  <li>one color texts  </li>
+  
+  
+</ol>
+
 
 
 
