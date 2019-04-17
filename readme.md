@@ -12,7 +12,7 @@
   <li>Not user friendly </li>
 </ul>
 
-
+<h3> What to change? </h3>
 <ol>
   <li>less pictures, more space</li>
   <li>stucture</li>
