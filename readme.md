@@ -13,7 +13,7 @@
 </ul>
 
 <ul>
-  <li>Unorganized<li>
-  <li>Not user friendly<li>
+  <li>Unorganized</li>
+  <li>Not user friendly</li>
   
 </ul>
