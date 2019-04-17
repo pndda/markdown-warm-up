@@ -10,9 +10,6 @@
   <li>no updates</li>
   <li>via ugly websites on google </li>
   <li>this is an outdated website </li>
-</ul>
-
-<ul>
   <li>Unorganized<li>
   <li>Not user friendly<li>
   
