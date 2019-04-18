@@ -1,6 +1,6 @@
 ## Markdown of all the bad things ##
 
-<p>hi, this is a list of all the bad things in our chosen website</p> 
+###### hi, this is a list of all the bad things in our chosen website ######
 
 => http://www.arngren.net/, ARNGREN
 
