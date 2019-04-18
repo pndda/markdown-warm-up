@@ -2,7 +2,7 @@
 
 ###### hi, this is a list of all the bad things in our chosen website ######
 
-=> http://www.arngren.net/, ARNGREN
+[http://www.arngren.net/](http://www.arngren.net/), ARNGREN
 
 
   1. no updates 
