@@ -1,6 +1,6 @@
 <h1> Markdown of all the bad things </h1>
 
-<p> style="color:#FF0000";> hi, this is a list of all the bad things in our chosen website</p> 
+<p>hi, this is a list of all the bad things in our chosen website</p> 
 
 => http://www.arngren.net/, ARNGREN
 
@@ -20,8 +20,6 @@
   
   
 </ol>
-
-
 
 
 
