@@ -1,8 +1,8 @@
-## Markdown of all the bad things ##
+# Markdown of all the bad things ##
 
 <p>hi, this is a list of all the bad things in our chosen website</p> 
 
-=> http://www.arngren.net/, ARNGREN
+=> http://www.arngren.net/
 
 <ul>
   <li>no updates</li>
