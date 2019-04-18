@@ -5,8 +5,8 @@
 [http://www.arngren.net/](http://www.arngren.net/)
 
 
-  1. no updates 
-  2. via ugly websites on google 
+  1. no updates since 2004
+  2. found it via ugly websites on google 
   3. this is an outdated website 
   4. Unorganized 
   5. Not user friendly 
@@ -18,10 +18,11 @@
      * Item 1a. Work with 1 size pictures
      * Item 1a. More whitespace 
      
-  2. stucture
+  2. structure
      * Item 2a. Better composition
    
   3. Less color text
+  4. Better navigation
      
   
 
