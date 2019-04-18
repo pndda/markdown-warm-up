@@ -1,25 +1,22 @@
-<h1> Markdown of all the bad things </h1>
+# Markdown of all the bad things
 
-<p>hi, this is a list of all the bad things in our chosen website</p> 
+### hi, this is a list of all the bad things in our chosen website</p> 
 
-=> http://www.arngren.net/, ARNGREN
+=> [UGLY website]: http://www.arngren.net/
 
-<ul>
-  <li>no updates</li>
-  <li>via ugly websites on google </li>
-  <li>this is an outdated website </li>
-  <li>Unorganized </li>
-  <li>Not user friendly </li>
-</ul>
+1. no updates
+2. found it via ugly websites on google 
+3. this is an outdated website
+4. Unorganized
+5. Not user friendly 
 
-<h3> What to change? </h3>
-<ol>
-  <li>less pictures, more space</li>
-  <li>stucture</li>
-  <li>one color texts  </li>
+### What to change?
+..* less pictures, more space
+..* stucture
+..* one color texts 
   
   
-</ol>
+
 
 
 
