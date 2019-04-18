@@ -2,7 +2,7 @@
 
 ### hi, this is a list of all the bad things in our chosen website</p> 
 
-=> [UGLY website]: http://www.arngren.net/
+[http://www.arngren.net/]
 
 1. no updates
 2. found it via ugly websites on google 
