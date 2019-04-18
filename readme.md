@@ -4,6 +4,13 @@
 
 [http://www.arngren.net/](http://www.arngren.net/)
 
+#### Preview of our amazing website! ####
+ 
+ <a href="https://www.youtube.com/watch?v=u4UHjx_YU44
+" target="_blank"><img src="https://www.youtube.com/watch?v=u4UHjx_YU44" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
 
   1. no updates 
   2. via ugly websites on google 
@@ -18,12 +25,6 @@
   2. stucture
   3. one color texts
   
- #### Preview of our amazing website! ####
- 
- <a href="https://www.youtube.com/watch?v=u4UHjx_YU44
-" target="_blank"><img src="https://www.youtube.com/watch?v=u4UHjx_YU44" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 
 
 
