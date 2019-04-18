@@ -1,4 +1,4 @@
-<h1> Markdown of all the bad things </h1>
+## Markdown of all the bad things ##
 
 <p>hi, this is a list of all the bad things in our chosen website</p> 
 
