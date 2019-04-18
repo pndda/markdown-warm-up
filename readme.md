@@ -1,10 +1,10 @@
-## Markdown of all the bad things ##
+## Markdown of all the bad thing
 
-###### hi, this is a list of all the bad things in our chosen website ######
+### hi, this is a list of all the bad things in our chosen website 
 
 [http://www.arngren.net/](http://www.arngren.net/)
 
-#### Preview of our amazing website! ####
+#### Preview of our amazing website!
  
  <a href="https://www.youtube.com/watch?v=u4UHjx_YU44
 " target="_blank"><img src="https://www.youtube.com/watch?v=u4UHjx_YU44" 
@@ -19,7 +19,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
   5. Not user friendly 
 
 
-### What to change? ###
+### What to change?
 
   1. less pictures, more space
      * Item 1a. Like working with one seize pictures or seperate it in more tabs so you get some rest in the homepage.
