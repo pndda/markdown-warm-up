@@ -18,7 +18,7 @@
   2. stucture
   3. one color texts
   
- ####  ####
+ #### Preview of our amazing website! ####
  
  <a href="https://www.youtube.com/watch?v=u4UHjx_YU44
 " target="_blank"><img src="https://www.youtube.com/watch?v=u4UHjx_YU44" 
