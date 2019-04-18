@@ -5,17 +5,17 @@
 http://www.arngren.net/
 
 
-no updates
-via ugly websites on google 
-this is an outdated website
-Unorganized
-Not user friendly 
+1. no updates
+2. via ugly websites on google 
+3. this is an outdated website
+4. Unorganized
+5. Not user friendly 
 
 
 ### What to change?
-less pictures, more space
-stucture
-one color texts  
+..* less pictures, more space
+..* stucture
+..*one color texts  
   
   
 
