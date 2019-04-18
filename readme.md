@@ -4,22 +4,21 @@
 
 => http://www.arngren.net/, ARNGREN
 
-<ul>
-  <li>no updates</li>
-  <li>via ugly websites on google </li>
-  <li>this is an outdated website </li>
-  <li>Unorganized </li>
-  <li>Not user friendly </li>
-</ul>
 
-<h3> What to change? </h3>
-<ol>
-  <li>less pictures, more space</li>
-  <li>stucture</li>
-  <li>one color texts  </li>
+  ⋅⋅*no updates 
+  ⋅⋅*via ugly websites on google 
+  ⋅⋅*this is an outdated website 
+  ⋅⋅*Unorganized 
+  ⋅⋅*Not user friendly 
+
+
+### What to change? ###
+
+  ⋅⋅* less pictures, more space
+  ⋅⋅* stucture
+  ⋅⋅* one color texts
   
-  
-</ol>
+ 
 
 
 
