@@ -1,21 +1,29 @@
-# Markdown of all the bad things
+# Markdown of all the bad things 
 
-### hi, this is a list of all the bad things in our chosen website
+### hi, this is a list of all the bad things in our chosen website 
 
-http://www.arngren.net/
 
+[http://www.arngren.net/](http://www.arngren.net/) 
 
 1. no updates
-2. via ugly websites on google 
+
+2. found it via ugly websites on google 
+
 3. this is an outdated website
+
 4. Unorganized
+
 5. Not user friendly 
 
 
 ### What to change?
-..* less pictures, more space
-..* stucture
-..*one color texts  
+..
+* less pictures, more space
+..
+* stucture
+..
+* one color texts 
+  
   
   
 
